@@ -8,6 +8,7 @@ function App() {
   return (
     <>
     <h1>Shaftoli bomi?</h1>
+    <p>jiahdhauiwuiwhd</p>
     <button>Ha bor</button> 
     <Abotu/>
     </>
